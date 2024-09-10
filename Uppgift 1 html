@@ -5,11 +5,20 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Min title</title>
+<title>KODA i HTML</title>
 
 </head>
 <body>
+<h1>Varför kodning är kul.</h1>
+<p>Det finns så många olika anledningar om varför kodning är roligt.</p>
+<h5>Nu börjar förklaringen till varför kodning och programmering är så skojsigt och spännande.</h5>
 
+<h2>Lystring!</h2>
+
+<article>
+    <h3>Det är mycket viktigt med övning. Övning övning övning.</h3>
+    <h4> och så klart mera övning!</h4>
+</article>
 
 </body>
 </html>
